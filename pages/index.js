@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <p className="description">
-          <iframe src='https://taja3client.netlify.app/'></iframe>
+          <iframe width='100%' height='100%' src='https://taja3client.netlify.app/'></iframe>
         </p>
       </main>
     </div>
